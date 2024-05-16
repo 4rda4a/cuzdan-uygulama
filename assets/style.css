@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@200&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+input,
+textarea,
+select,
+button {
+    box-shadow: none !important;
+}
+
+.fi {
+    font-size: 20px;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+.fi-rr-trash {
+    width: 35px;
+    height: 35px;
+}
+
+.accordion-body ul li {
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+}
